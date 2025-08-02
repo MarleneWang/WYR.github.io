@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "biye.png"
+  avatar           : "/assets/images/biye.png"
   name             : "王雨若  Wang YuRuo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
