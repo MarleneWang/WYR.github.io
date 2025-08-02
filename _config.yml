@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "biye.png"
   name             : "王雨若  Wang YuRuo"
   pronouns         : # example: "she/her"  
   bio              : "MSc student in Fluid Mechanics with research interests in CO₂ sequestration, fluid-solid interaction, and geomechanical modeling."
   location         : "ChengDu,China"
   employer         : "South-West Petroleum University"
-  uri              :
+  url              : https://marlenewang.github.io/WYR.github.io/# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
   email            : "marlenewang922@gmail.com" 
 
   # Academic websites
